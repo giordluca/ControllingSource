@@ -18,6 +18,8 @@
 
 - (void)setDetailItem:(id)newDetailItem
 {
+    
+    NSLog(@"setDetailItem");
     if (_detailItem != newDetailItem) {
         _detailItem = newDetailItem;
         
