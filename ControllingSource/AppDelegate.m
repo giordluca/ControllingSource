@@ -19,7 +19,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     NSLog(@"application su provaLuca");
-  
+    NSLog(@"application su provaLuca su remote ma editato Xcode");
     NSLog(@" nuovo log su provaLuc su origin  Nello");
     // Override point for customization after application launch.
     UINavigationController *navigationController = (UINavigationController *)self.window.rootViewController;
