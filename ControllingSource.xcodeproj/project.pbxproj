@@ -38,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		555E5A6217B85F2D00BCFA48 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 		55FAC69917B68814004B56CF /* ControllingSource.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ControllingSource.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55FAC69C17B68814004B56CF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		55FAC69E17B68814004B56CF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -106,6 +107,7 @@
 				55FAC6B317B68814004B56CF /* ControllingSource.xcdatamodeld */,
 				55FAC6BC17B68814004B56CF /* Images.xcassets */,
 				55FAC6B017B68814004B56CF /* Main.storyboard */,
+				555E5A6217B85F2D00BCFA48 /* README.md */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
