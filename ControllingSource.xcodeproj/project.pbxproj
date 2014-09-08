@@ -27,6 +27,7 @@
 		55FAC6D117B68814004B56CF /* ControllingSourceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55FAC6D017B68814004B56CF /* ControllingSourceTests.m */; };
 		816B55CB19BDE2D5000EF31B /* leggimi in Resources */ = {isa = PBXBuildFile; fileRef = 816B55CA19BDE2D5000EF31B /* leggimi */; };
 		816B55CF19BDE433000EF31B /* provaLeggimiNello in Resources */ = {isa = PBXBuildFile; fileRef = 816B55CE19BDE433000EF31B /* provaLeggimiNello */; };
+		816B55D119BDE976000EF31B /* FileNuovoPL in Resources */ = {isa = PBXBuildFile; fileRef = 816B55D019BDE976000EF31B /* FileNuovoPL */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		55FAC6D017B68814004B56CF /* ControllingSourceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ControllingSourceTests.m; sourceTree = "<group>"; };
 		816B55CA19BDE2D5000EF31B /* leggimi */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = leggimi; sourceTree = "<group>"; };
 		816B55CE19BDE433000EF31B /* provaLeggimiNello */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = provaLeggimiNello; sourceTree = "<group>"; };
+		816B55D019BDE976000EF31B /* FileNuovoPL */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FileNuovoPL; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 				555E8C3617B6FE7900315B9C /* Resources */,
 				555E8C3517B6FE7200315B9C /* View Controllers */,
 				55FAC6A517B68814004B56CF /* Supporting Files */,
+				816B55D019BDE976000EF31B /* FileNuovoPL */,
 			);
 			path = ControllingSource;
 			sourceTree = "<group>";
