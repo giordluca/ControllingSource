@@ -19,7 +19,6 @@
 - (void)setDetailItem:(id)newDetailItem
 {
     
-    NSLog(@"setDetailItem");
     if (_detailItem != newDetailItem) {
         _detailItem = newDetailItem;
         
@@ -30,6 +29,9 @@
 
 - (void)configureView
 {
+    
+    NSLog(@"configureView");
+
     // Update the user interface for the detail item.
 
     if (self.detailItem) {
