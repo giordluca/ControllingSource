@@ -26,6 +26,7 @@
 		55FAC6CF17B68814004B56CF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 55FAC6CD17B68814004B56CF /* InfoPlist.strings */; };
 		55FAC6D117B68814004B56CF /* ControllingSourceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55FAC6D017B68814004B56CF /* ControllingSourceTests.m */; };
 		816B55CD19BDE328000EF31B /* leggimi in Resources */ = {isa = PBXBuildFile; fileRef = 816B55CC19BDE328000EF31B /* leggimi */; };
+		816B55CF19BDE433000EF31B /* provaLeggimi in Resources */ = {isa = PBXBuildFile; fileRef = 816B55CE19BDE433000EF31B /* provaLeggimi */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		55FAC6CE17B68814004B56CF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		55FAC6D017B68814004B56CF /* ControllingSourceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ControllingSourceTests.m; sourceTree = "<group>"; };
 		816B55CC19BDE328000EF31B /* leggimi */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = leggimi; sourceTree = "<group>"; };
+		816B55CE19BDE433000EF31B /* provaLeggimi */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = provaLeggimi; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				55FAC6B617B68814004B56CF /* MasterViewController.h */,
 				55FAC6B717B68814004B56CF /* MasterViewController.m */,
 				816B55CC19BDE328000EF31B /* leggimi */,
+				816B55CE19BDE433000EF31B /* provaLeggimi */,
 			);
 			name = "View Controllers";
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				816B55CF19BDE433000EF31B /* provaLeggimi in Resources */,
 				55FAC6BD17B68814004B56CF /* Images.xcassets in Resources */,
 				816B55CD19BDE328000EF31B /* leggimi in Resources */,
 				55FAC6A917B68814004B56CF /* InfoPlist.strings in Resources */,
