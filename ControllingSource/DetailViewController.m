@@ -18,7 +18,7 @@
 
 - (void)setDetailItem:(id)newDetailItem
 {
-    
+    NSLog(@"pippo pelo");
     if (_detailItem != newDetailItem) {
         _detailItem = newDetailItem;
         
