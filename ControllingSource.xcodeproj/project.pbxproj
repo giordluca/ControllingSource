@@ -26,6 +26,7 @@
 		55FAC6CF17B68814004B56CF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 55FAC6CD17B68814004B56CF /* InfoPlist.strings */; };
 		55FAC6D117B68814004B56CF /* ControllingSourceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 55FAC6D017B68814004B56CF /* ControllingSourceTests.m */; };
 		816B55CF19BDE433000EF31B /* provaLeggimiNello in Resources */ = {isa = PBXBuildFile; fileRef = 816B55CE19BDE433000EF31B /* provaLeggimiNello */; };
+		816B55D119BDE976000EF31B /* FileNuovoPL in Resources */ = {isa = PBXBuildFile; fileRef = 816B55D019BDE976000EF31B /* FileNuovoPL */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		55FAC6CE17B68814004B56CF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		55FAC6D017B68814004B56CF /* ControllingSourceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ControllingSourceTests.m; sourceTree = "<group>"; };
 		816B55CE19BDE433000EF31B /* provaLeggimiNello */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = provaLeggimiNello; sourceTree = "<group>"; };
+		816B55D019BDE976000EF31B /* FileNuovoPL */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = FileNuovoPL; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +156,7 @@
 				555E8C3617B6FE7900315B9C /* Resources */,
 				555E8C3517B6FE7200315B9C /* View Controllers */,
 				55FAC6A517B68814004B56CF /* Supporting Files */,
+				816B55D019BDE976000EF31B /* FileNuovoPL */,
 			);
 			path = ControllingSource;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				816B55CF19BDE433000EF31B /* provaLeggimiNello in Resources */,
+				816B55D119BDE976000EF31B /* FileNuovoPL in Resources */,
 				55FAC6BD17B68814004B56CF /* Images.xcassets in Resources */,
 				55FAC6A917B68814004B56CF /* InfoPlist.strings in Resources */,
 				55FAC6B217B68814004B56CF /* Main.storyboard in Resources */,
