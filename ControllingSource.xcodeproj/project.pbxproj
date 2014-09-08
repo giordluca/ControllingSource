@@ -263,6 +263,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				816B55CF19BDE433000EF31B /* provaLeggimiNello in Resources */,
 				55FAC6BD17B68814004B56CF /* Images.xcassets in Resources */,
 				816B55CB19BDE2D5000EF31B /* leggimi in Resources */,
 				55FAC6A917B68814004B56CF /* InfoPlist.strings in Resources */,
